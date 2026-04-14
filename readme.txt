@@ -11,4 +11,4 @@ Checkpoint 1 - Code Walkthrough: Coming soon
 
 ## Documents
 LaTeX Paper (Overleaf): Will be added in Checkpoint 2
-Project Proposal (PDF): https://docs.google.com/document/d/1CMa-3qNCmd5aBChDHWr1woJhhv5f9vhWjuk-262UXtk/edit?usp=sharing
+Project Proposal (PDF): https://docs.google.com/document/d/1WwLvzQR2mY3zznO7gfj4GYsdIH4K-qxIXnZXMW3-s7I/edit?tab=t.0
