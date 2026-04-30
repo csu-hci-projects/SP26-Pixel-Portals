@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - KeyBlock
   layers:
   - Default
   - TransparentFX
