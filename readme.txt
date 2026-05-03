@@ -7,7 +7,7 @@
 
 ## Videos
 Checkpoint 1 - Project Overview: https://youtu.be/xcbwA4RMITc?feature=shared
-Checkpoint 1 - Code Walkthrough: Coming soon
+Checkpoint 1 - Code Walkthrough: https://youtu.be/f9qnGRB-jKE
 
 ## Documents
 LaTeX Paper (Overleaf): Will be added in Checkpoint 2
