@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "SP26-Pixel-Portals-1.slnx"
+    "dotnet.defaultSolution": "SP26-Pixel-Portals.slnx"
 }
